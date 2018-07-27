@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/LiviuIonescu/JavascriptLearning/issues"
   },
-  "homepage": "https://github.com/LiviuIonescu/JavascriptLearning#readme"
+  "homepage": "https://github.com/LiviuIonescu/JavascriptLearning#readme",
+  "dependencies": {
+    "local": "^0.3.3",
+    "lodash": "^4.17.10"
+  }
 }
