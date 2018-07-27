@@ -1,0 +1,19 @@
+{
+  "name": "javascriptlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiviuIonescu/JavascriptLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiviuIonescu/JavascriptLearning/issues"
+  },
+  "homepage": "https://github.com/LiviuIonescu/JavascriptLearning#readme"
+}
