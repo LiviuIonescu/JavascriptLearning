@@ -18,6 +18,6 @@
   "homepage": "https://github.com/LiviuIonescu/JavascriptLearning#readme",
   "dependencies": {
     "local": "^0.3.3",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.21"
   }
 }
